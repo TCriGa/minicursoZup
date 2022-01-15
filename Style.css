@@ -52,4 +52,18 @@ main > section button {
 
 #detalhes-container > li p {
 color: white;
+
+}
+.lft {
+    margin-bottom: 33px !important;
+    padding-right: 2%;
+}
+
+.rgt {
+    margin-bottom: 33px !important;
+    padding-left: 2%;
+}
+
+.pointer {
+    cursor: pointer;
 }
